@@ -10,6 +10,6 @@ Hacktoberfest is an annual event that encourages participation in open-source pr
 
 1. **Fork the repository**: Click the "Fork" button in the top right corner of this page to create a copy of this repository in your GitHub account.
 
-2. **Clone your fork**: Use the following command to clone your forked repository to your local machine:
+2. **Clone your fork**: Use the following command to clone your forked repository to your local machine:..
    ```bash
    git clone https://github.com/YOUR_USERNAME/Hacktoberfest2024.git
