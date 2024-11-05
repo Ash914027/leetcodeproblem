@@ -6,7 +6,7 @@ Welcome to the Hacktoberfest 2024 repository! This project is designed to help y
 
 Hacktoberfest is an annual event that encourages participation in open-source projects. During the month of October, contributors can earn rewards for making pull requests to any public repository on GitHub.
 
-## How to Contribute
+## How to Contribute.
 
 1. **Fork the repository**: Click the "Fork" button in the top right corner of this page to create a copy of this repository in your GitHub account.
 
