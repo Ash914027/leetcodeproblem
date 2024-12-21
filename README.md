@@ -2,7 +2,7 @@
 
 Welcome to the Hacktoberfest 2024 repository! This project is designed to help you make your first pull request and get started with open-source contributions.
 
-## What is Hacktoberfest?.
+## What is Hacktoberfest?..
 
 Hacktoberfest is an annual event that encourages participation in open-source projects. During the month of October, contributors can earn rewards for making pull requests to any public repository on GitHub.
 
