@@ -7,7 +7,7 @@
 <p>Suppose we chose a set of deletion indices <code>answer</code> such that after deletions, the final array has <strong>every string (row) in lexicographic</strong> order. (i.e., <code>(strs[0][0] &lt;= strs[0][1] &lt;= ... &lt;= strs[0][strs[0].length - 1])</code>, and <code>(strs[1][0] &lt;= strs[1][1] &lt;= ... &lt;= strs[1][strs[1].length - 1])</code>, and so on). Return <em>the minimum possible value of</em> <code>answer.length</code>.</p>
 
 <p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+<p><strong class="example">Example 1:</strong></p>.
 
 <pre>
 <strong>Input:</strong> strs = [&quot;babca&quot;,&quot;bbazb&quot;]
