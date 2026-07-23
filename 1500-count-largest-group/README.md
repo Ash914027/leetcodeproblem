@@ -2,7 +2,7 @@
 
 <p>Each number from <code>1</code> to <code>n</code> is grouped according to the sum of its digits.</p>
 
-<p>Return <em>the number of groups that have the largest size</em>.</p>
+<p>Return <em>the number of groups that have the largest size</em></p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
