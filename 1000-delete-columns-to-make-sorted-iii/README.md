@@ -1,6 +1,6 @@
 <h2><a href="https://leetcode.com/problems/delete-columns-to-make-sorted-iii">Delete Columns to Make Sorted III</a></h2> <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' /><hr><p>You are given an array of <code>n</code> strings <code>strs</code>, all of the same length</p>
 
-<p>We may choose any deletion indices, and we delete all the characters in those indices for each string.</p>
+<p>We may choose any deletion indices, and we delete all the characters in those indices for each string</p>
 
 <p>For example, if we have <code>strs = [&quot;abcdef&quot;,&quot;uvwxyz&quot;]</code> and deletion indices <code>{0, 2, 3}</code>, then the final array after deletions is <code>[&quot;bef&quot;, &quot;vyz&quot;]</code>.</p>
 
